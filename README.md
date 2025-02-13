@@ -5,7 +5,8 @@ This paper presents a project on developing a smart autonomous robot with obstac
 Keywords: Obstacle Avoidance, Object Detection, ESP32 Microcontroller, Ultrasonic Sensor, ESP32-CAM Module, L298N Motor Driver, Autonomous Robot, Embedded System, Robotic Navigation, Intelligent Systems, Smart Robotics, Computer Vision.
 
 
-
+![image](https://github.com/user-attachments/assets/24f400ae-e8bf-425e-80a6-0b2db13c7ad5)
+Figure: 1 Block Diagram of Smart Autonomous Robot with Obstacle Avoidance
 
 
 
