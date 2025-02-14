@@ -20,7 +20,6 @@ Keywords: Obstacle Avoidance, Object Detection, ESP32 Microcontroller, Ultrasoni
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1d6309b0-e768-47e2-b7e4-b020a132775a" alt="image"/>
 </p>
-![image](https://github.com/user-attachments/assets/1d6309b0-e768-47e2-b7e4-b020a132775a)
 
 ---
 <h3 align="center">Schematic diagram and connections</h3>
