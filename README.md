@@ -17,6 +17,9 @@ Keywords: Obstacle Avoidance, Object Detection, ESP32 Microcontroller, Ultrasoni
 <h3 align="center">Hardware Description</h3>
 <h4 align="center">ESP32 CAM</h4>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1d6309b0-e768-47e2-b7e4-b020a132775a" alt="image"/>
+</p>
 ![image](https://github.com/user-attachments/assets/1d6309b0-e768-47e2-b7e4-b020a132775a)
 
 ---
