@@ -9,7 +9,9 @@ Keywords: Obstacle Avoidance, Object Detection, ESP32 Microcontroller, Ultrasoni
 ---
 <h3 align="center">Block Diagram of Smart Autonomous Robot with Obstacle Avoidance</h3>
 
-![image](https://github.com/user-attachments/assets/24f400ae-e8bf-425e-80a6-0b2db13c7ad5)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24f400ae-e8bf-425e-80a6-0b2db13c7ad5" alt="image"/>
+</p>
 
 ---
 <h3 align="center">Hardware Description</h3>
